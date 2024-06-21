@@ -1,6 +1,6 @@
 # Hi there, I'm Tejas Chauhan! 👋
 
-I'm passionate about programming, coding, and all things Linux. As a dedicated Linux system administrator, I thrive on the challenges of managing and optimizing systems.
+I'm passionate about programming, coding, and all things. As a dedicated Linux system administrator, I thrive on the challenges of managing and optimizing systems.
 
 ## 🔧 Technologies & Tools
 
