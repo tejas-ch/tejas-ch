@@ -7,21 +7,22 @@ I'm passionate about programming, coding, and all things Linux. As a dedicated L
 - Linux Administration
 - Shell scripting
 - Code Editor: VS Code
-- Programming languages: Bash, HTML, Python, CSS
+- Programming languages: Bash, HTML, Python, CSS, Javascript
 - Version control: Git
 
 ## 🌱 I’m currently learning
 
-- JavaScript
 - NodeJS
+- SQL
 
-## 👯 I’m looking to collaborate on
+## 🤝 I’m looking to collaborate on
 
 - Open Source Projects
+- Selfhosted Projects
 
 ## 📫 How to reach me
 
-- Check out my code on [GitHub](https://github.com/tejas-ch)
+- [Email](contact@tejaschauhan.me)
 
 ## ⚡ Fun fact
 
